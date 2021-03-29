@@ -1,0 +1,6 @@
+{
+  "pdfInputPath": "C:\\temp\\",
+  "pdfOutputPath": "C:\\temp\\output\\",
+  "WatermarkFile": "watermarkFile.png",
+  "logFile": "system.log"
+}
